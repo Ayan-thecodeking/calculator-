@@ -1,4 +1,6 @@
 # calculator-
 using C++
 MLH INIT challanges 22
-using switch case statements 
+
+Using switch case statements 
+challnge: build a calculator 
