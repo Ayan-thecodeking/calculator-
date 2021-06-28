@@ -4,4 +4,4 @@ MLH INIT challanges 22
 
 Using switch case statements 
 
-challnge: build a calculator 
+challnge : build a calculator 
